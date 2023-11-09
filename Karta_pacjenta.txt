@@ -1,0 +1,45 @@
+Imie i nazwisko pacjenta: Jan Kowalski
+Data urodzenia: 1980-02-15
+Plec: Mezczyzna
+Numer telefonu: 123-456-789
+Historia chorob stomatologicznych: Prochnica zebow, Parodontologia
+Aktualne schorzenia i diagnozy: Brak
+Wyniki badan stomatologicznych: Badanie stomatologiczne: Prochnica na zebach 3, 6 i 7.
+Przeszle i obecne terapie stomatologiczne: Plombowanie zebow 3, 6 i 7. Mycie zebow pasta fluorowa.
+
+Imie i nazwisko pacjenta: Anna Nowak
+Data urodzenia:2003-09-10
+Plec:Kobieta
+Numer telefonu:555-444-221
+Historia chorob stomatologicznych: Stany zapalne dziasel, Prochnica zebow
+Aktualne schorzenia i diagnozy: Brak
+Wyniki badan stomatologicznych: Badanie stomatologiczne: Zdrowy stan jamy ustnej.
+Przeszle i obecne terapie stomatologiczne: Skaling dziasel, fluoryzacja zebow.
+
+Imie i nazwisko pacjenta: Ewa Nowak
+Data urodzenia: 1985-07-10
+Plec: Kobieta
+Numer telefonu: 111-222-333
+Historia chorob stomatologicznych: Prochnica zebow, Wrazliwosc na zimno
+Aktualne schorzenia i diagnozy: Brak
+Wyniki badan stomatologicznych: Badanie stomatologiczne: Prochnica na zebach 1, 4 i 5.
+Przeszle i obecne terapie stomatologiczne: Plombowanie zebow 1, 4 i 5. Pasta do zebow dla wrazliwosci.
+
+Imie i nazwisko pacjenta: Piotr Kwiatkowski
+Data urodzenia: 1992-03-25
+Plec: Mezczyzna
+Numer telefonu: 777-888-999
+Historia chorob stomatologicznych: Parodontologia, Wypadanie zebow
+Aktualne schorzenia i diagnozy: Brak
+Wyniki badan stomatologicznych: Badanie stomatologiczne: Stan parodontozy. Brak zebow 3, 6 i 8.
+Przeszle i obecne terapie stomatologiczne: Skaling, protetyka zebow.
+
+Imie i nazwisko pacjenta: Agnieszka Wisniewska
+Data urodzenia: 1988-12-05
+Plec:kobieta
+Numer telefonu: 555-111-333
+Historia chorob stomatologicznych: Prochnica zebow, Przyzebie
+Aktualne schorzenia i diagnozy: Brak
+Wyniki badan stomatologicznych:
+Przeszle i obecne terapie stomatologiczne: Plombowanie zebow 2, 7 i 9. Instrukcje higieny jamy ustnej.
+
